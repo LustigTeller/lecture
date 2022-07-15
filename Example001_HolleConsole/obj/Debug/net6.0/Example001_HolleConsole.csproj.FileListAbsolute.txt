@@ -1,0 +1,15 @@
+C:\Users\Роман\Desktop\lecture\Example001_HolleConsole\bin\Debug\net6.0\Example001_HolleConsole.exe
+C:\Users\Роман\Desktop\lecture\Example001_HolleConsole\bin\Debug\net6.0\Example001_HolleConsole.deps.json
+C:\Users\Роман\Desktop\lecture\Example001_HolleConsole\bin\Debug\net6.0\Example001_HolleConsole.runtimeconfig.json
+C:\Users\Роман\Desktop\lecture\Example001_HolleConsole\bin\Debug\net6.0\Example001_HolleConsole.dll
+C:\Users\Роман\Desktop\lecture\Example001_HolleConsole\bin\Debug\net6.0\ref\Example001_HolleConsole.dll
+C:\Users\Роман\Desktop\lecture\Example001_HolleConsole\bin\Debug\net6.0\Example001_HolleConsole.pdb
+C:\Users\Роман\Desktop\lecture\Example001_HolleConsole\obj\Debug\net6.0\Example001_HolleConsole.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\lecture\Example001_HolleConsole\obj\Debug\net6.0\Example001_HolleConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман\Desktop\lecture\Example001_HolleConsole\obj\Debug\net6.0\Example001_HolleConsole.AssemblyInfoInputs.cache
+C:\Users\Роман\Desktop\lecture\Example001_HolleConsole\obj\Debug\net6.0\Example001_HolleConsole.AssemblyInfo.cs
+C:\Users\Роман\Desktop\lecture\Example001_HolleConsole\obj\Debug\net6.0\Example001_HolleConsole.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\lecture\Example001_HolleConsole\obj\Debug\net6.0\Example001_HolleConsole.dll
+C:\Users\Роман\Desktop\lecture\Example001_HolleConsole\obj\Debug\net6.0\ref\Example001_HolleConsole.dll
+C:\Users\Роман\Desktop\lecture\Example001_HolleConsole\obj\Debug\net6.0\Example001_HolleConsole.pdb
+C:\Users\Роман\Desktop\lecture\Example001_HolleConsole\obj\Debug\net6.0\Example001_HolleConsole.genruntimeconfig.cache
